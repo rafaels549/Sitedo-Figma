@@ -1,2 +1,1 @@
-# Sitedo-Figma
-Site através do figma , com rotas de node.js
+->Assets - colocar todos os arquivos estáticos
